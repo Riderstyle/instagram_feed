@@ -1,0 +1,25 @@
+i.fa-instagram {
+    font-size: 35px;
+} 
+.cascadefeed {
+    background: #ddd8d8;
+}   
+
+.gridrow {
+    height: 300px;
+} 
+.pageheader {
+    color: #57575a;
+}
+h1 {
+    font-family: 'Grand Hotel', cursive;
+    color: #4a4a4d;
+}
+.card-body-fluid > img {
+    width: 100%;
+    object-fit: contain;
+} 
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: rgb(214, 207, 207);
+    background-color: #58585a;
+}
